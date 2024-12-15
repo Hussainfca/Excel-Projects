@@ -1,0 +1,1 @@
+Welcome to my Excel Projects repository! This collection showcases various data analysis, visualization, and automation tasks I’ve completed using Excel. The projects demonstrate a range of skills including data cleaning, formula creation, charting, and model building.
